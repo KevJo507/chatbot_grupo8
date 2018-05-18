@@ -1,0 +1,5 @@
+16|hola|Hola, como estas hoy?
+8|tengo tarjeta?|Lo verificare con gusto si me da su nombre completo por favor
+24|como esta el clima hoy|Parese que va a llover
+4|cual es tu nombre?|Cortana :)
+12|que piensas de rafael|es un buen tipo
