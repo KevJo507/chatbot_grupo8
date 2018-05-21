@@ -1,5 +1,7 @@
 16|hola|Hola, como estas hoy?
-8|tengo tarjeta?|Lo verificare con gusto si me da su nombre completo por favor
-24|como esta el clima hoy|Parese que va a llover
-4|cual es tu nombre?|Cortana :)
-12|que piensas de rafael|es un buen tipo
+8|necesito informacion|¿De que necesita informacion? ¿productos, horario o entrega?
+24|productos|Tenemos las siguientes categorias: peluches de animales o caricaturas
+4|peluches de animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
+12|peluches de caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
+4|animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
+12|caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
