@@ -5,3 +5,15 @@
 12|peluches de caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
 4|animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
 12|caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
+12|gatos|precio Q. 46
+12|perros|precio Q. 125
+12|ranas|precio Q. 345
+12|osos|precio Q. 456
+12|canguros|precio Q. 546
+12|elefantes|precio Q. 27
+12|superman|precio Q. 150
+12|batman|precio Q. 260
+12|mujer maravilla|precio Q. 370
+12|joker|precio Q. 100
+12|bob esponja|precio Q. 350
+12|spiderman|precio Q. 600
