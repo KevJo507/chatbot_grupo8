@@ -1,4 +1,4 @@
-16|hola|Hola, como estas hoy?
+16|hola|Hola, mi nombre es Estela del Mundo Peluche. ¿De que necesita informacion? ¿productos, horario o entrega?
 8|necesito informacion|¿De que necesita informacion? ¿productos, horario o entrega?
 24|productos|Tenemos las siguientes categorias: peluches de animales o caricaturas
 4|peluches de animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
@@ -28,7 +28,12 @@
 12|horario|Nuestro horario es de 8 am para las pm 
 12|entrega| su entrege es al interior o al exterior del pais
 12|interior| Se realiza entregue por medio de Guatex, con deposito previo
-12|exterior| Se realiza entrega con mensajero, pago contra entrega
+12|exterior| Se realiza entrega con mensajero, pago contra entrega. cuentra banrural cuenta BI
+12|cuenta Banrural| Nuestra cuenta banrural es 8825854555, llamar para coordinar entrega
+12|Banrural| Nuestra cuenta banrural es 8825854555, llamar para coordinar entrega
+12|cuenta BI|Nuestra cuenta BI es 8825854555, llamar para coordinar entrega
+12|BI|Nuestra cuenta BI es 8825854555, llamar para coordinar entrega
+12|coordinar entrega| debe llamar al 22236575 para coordinar entrega
 12|Si comprar| Desea seguir comprando? Seguir, finalizar?
 12|seguir| peluches de animales o caricaturas
 12|finalizar|Para procesar su orden porfavor llame la oficina central
@@ -53,5 +58,4 @@
 12|regalo| el mejor regalo siempre sera un peluche de oso precio Q. 456 desea realizar la compra? Si comprar  No comprar
 12|conmo te llamas| Soy Estella, del Mundo Peluche, traendo felicidad con peluches.¿De que necesita informacion? ¿productos, horario o entrega?
 12|ninos| la mejor opcion para los peques' son los peluches de animales o caricaturas. ¿De que necesita informacion? ¿productos, horario o entrega?
-12|seguir|
-12|seguir|
+12|jugetes|No somos jugeteria, nos dedicamos unicamente a los peluches. Tenemos los mejores peluches del mundo! 
