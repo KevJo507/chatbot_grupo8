@@ -4,17 +4,54 @@
 4|peluches de animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
 12|peluches de caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
 4|animales|tenemos gatos, perros, ranas, osos, canguros y elefantes
+4|animale|tenemos gatos, perros, ranas, osos, canguros y elefantes
 12|caricaturas|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
-12|gatos|precio Q. 46
-12|perros|precio Q. 125
-12|ranas|precio Q. 345
-12|osos|precio Q. 456
-12|canguros|precio Q. 546
-12|elefantes|precio Q. 27
-12|superman|precio Q. 150
-12|batman|precio Q. 260
-12|mujer maravilla|precio Q. 370
-12|joker|precio Q. 100
-12|bob esponja|precio Q. 350
-12|spiderman|precio Q. 600 
-12|horario|Nuestro horario es de 8 de la ma;ana a 5 de la tarde
+12|caricatura|tenemos superman, batman, mujer maravilla, joker, bob esponja y spiderman
+12|gato|precio Q. 46, desea realizar la compra? Si comprar  No comprar
+12|gatos|precio Q. 46, desea realizar la compra? Si comprar  No comprar
+12|perros|precio Q. 125 desea realizar la compra? Si comprar  No comprar
+12|perro|precio Q. 125 desea realizar la compra? Si comprar  No comprar
+12|ranas|precio Q. 345 desea realizar la compra? Si comprar  No comprar
+12|osos|precio Q. 456 desea realizar la compra? Si comprar  No comprar
+12|canguros|precio Q. 546 desea realizar la compra? Si comprar  No comprar
+12|elefantes|precio Q. 27 desea realizar la compra? Si comprar  No comprar
+12|rana|precio Q. 345 desea realizar la compra? Si comprar  No comprar
+12|oso|precio Q. 456 desea realizar la compra? Si comprar  No comprar
+12|canguro|precio Q. 546 desea realizar la compra? Si comprar  No comprar
+12|elefante|precio Q. 27 desea realizar la compra? Si comprar  No comprar
+12|superman|precio Q. 150 desea realizar la compra? Si comprar  No comprar
+12|batman|precio Q. 260 desea realizar la compra? Si comprar  No comprar
+12|mujer maravilla|precio Q. 370 desea realizar la compra? Si comprar  No comprar
+12|joker|precio Q. 100 desea realizar la compra? Si comprar  No comprar
+12|bob esponja|precio Q. 350 desea realizar la compra? Si comprar  No comprar
+12|spiderman|precio Q. 600 desea realizar la compra? Si comprar  No comprar
+12|horario|Nuestro horario es de 8 am para las pm 
+12|entrega| su entrege es al interior o al exterior del pais
+12|interior| Se realiza entregue por medio de Guatex, con deposito previo
+12|exterior| Se realiza entrega con mensajero, pago contra entrega
+12|Si comprar| Desea seguir comprando? Seguir, finalizar?
+12|seguir| peluches de animales o caricaturas
+12|finalizar|Para procesar su orden porfavor llame la oficina central
+12|no comprar| Quiza en otra oportunidad, gracias por su interes. 
+12|telefono| el telefono de nuestra oficina central es 22236575
+12|buenos dias|Buenos dias, De que necesita informacion? ¿productos, horario o entrega?
+12|Buenas tardes| 
+12|que hace| Soy el ChatBot de la tienda MUNDO PELUCHE, los mejores amigos
+12|que hacen| Fabricamos los mejores amigos
+12|no se| Posiblemente tiene que venir a nuestra tienda para make-up your mind
+12|dirrecion|  MUNDO PELUCHE, 3 calle 2-44 zona 1, Guatemala Guatemala
+12|sitio web| Mundopeluche.com
+12|donde estan ubicado| MUNDO PELUCHE, 3 calle 2-44 zona 1, Guatemala Guatemala
+12|peluche mas caro| El peluche mas caro es el de spiderman: precio Q. 600 desea realizar la compra? Si comprar  No comprar
+12|peluche mas barrato| El peluche mas barrato es el de elefante: precio Q27 desea realizar la compra? Si comprar  No comprar
+12|custamizado| Lamentamos informarle que para custamizar un peluche debe venir a nuesta surcursal central
+12|surcursal central| MUNDO PELUCHE, 3 calle 2-44 zona 1, Guatemala Guatemala, telefono 22236575
+12|Quien son| somos una fabrica leader en Guatemala, dedicada a la personalizacion de pechuches. ¿De que necesita informacion? ¿productos, horario o entrega?
+12|otro| lamentamos que no podemos ayudarle por este medio, porfavor llamar al 22236575
+12|grande| el peluche mas grande en stock es el de Bob esponja: precio Q. 350 desea realizar la compra? Si comprar  No comprar
+12|pequeno|el peluche mas pequeno en stock es rana: precio Q. 345 desea realizar la compra? Si comprar  No comprar
+12|regalo| el mejor regalo siempre sera un peluche de oso precio Q. 456 desea realizar la compra? Si comprar  No comprar
+12|conmo te llamas| Soy Estella, del Mundo Peluche, traendo felicidad con peluches.¿De que necesita informacion? ¿productos, horario o entrega?
+12|ninos| la mejor opcion para los peques' son los peluches de animales o caricaturas. ¿De que necesita informacion? ¿productos, horario o entrega?
+12|seguir|
+12|seguir|
